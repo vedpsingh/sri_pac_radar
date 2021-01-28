@@ -1,5 +1,5 @@
 # qpe_qpf_radar
-Rainfall Estimation using Radar reflectivity (QPE and QPF)
+Rainfall Estimation using Radar reflectivity (SRI and PAC)
 
 Contributors -
 
