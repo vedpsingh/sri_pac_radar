@@ -1,4 +1,4 @@
-# qpe_qpf_radar
+# sri_pac_radar
 Rainfall Estimation using Radar reflectivity (SRI and PAC)
 
 Contributors -
