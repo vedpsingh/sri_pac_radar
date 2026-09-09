@@ -3,7 +3,6 @@ Rainfall Estimation using Radar reflectivity (SRI and PAC)
 
 Major Contributor :-
  - Ved Prakash Singh
- - Gaurav Kumar
  - Jasaswini Rath
 
 Minor Contributors :- 
